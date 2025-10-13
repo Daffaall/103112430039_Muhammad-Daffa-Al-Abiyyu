@@ -237,7 +237,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan3_Modul3/Op/2_1.png)
+![Screenshot Output Unguided 1_1](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan3_Modul3/Op/3_1.png)
 
 Program ini menyimpan data mahasiswa dalam array of struct, lalu menghitung nilai akhir melalui fungsi hitungNilaiAkhir(). Konsep yang dilatih: array, struct, dan fungsi dengan return value.
 
@@ -309,7 +309,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_2](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan3_Modul3/Op/2_2.png)
+![Screenshot Output Unguided 1_2](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan3_Modul3/Op/3_2.png)
 
 Bagian ini melatih konsep ADT (Abstract Data Type) dan pemrograman modular. Fungsi dan tipe data dipisah dalam file header (.h) dan implementasi (.cpp), seperti cara kerja library dalam C++.
 
