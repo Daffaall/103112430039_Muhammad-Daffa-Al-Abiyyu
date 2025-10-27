@@ -763,7 +763,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan4_Modul4_2/Op/5_1.png)
+![Screenshot Output Unguided 5_1](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan5_Modul4_2/Op/5_1.png)
 
 Program melakukan pencarian data pada linked list terurut menggunakan metode binary search, dengan membandingkan elemen tengah untuk menentukan arah pencarian hingga data ditemukan atau tidak ditemukan.
 
@@ -896,7 +896,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_2](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan5_Modul4_2/Op/5_2.png)
+![Screenshot Output Unguided 5_2](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan5_Modul4_2/Op/5_2.png)
 
 Program mencari data pada linked list menggunakan metode linear search, dengan memeriksa setiap node secara berurutan mulai dari awal hingga data ditemukan atau tidak ditemukan.
 
