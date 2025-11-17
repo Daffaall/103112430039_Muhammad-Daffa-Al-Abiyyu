@@ -440,7 +440,7 @@ int main() {
 
 ## Unguided 
 
-### 1. Implementasikan program C++ yang menggunakan algoritma Binary Search pada Linked List untuk mencari elemen tertentu.
+### 1. Buatlah ADT Stack menggunakan ARRAY.
 
 ## File: `stack.cpp`
 ```C++
@@ -588,8 +588,7 @@ int main()
 
 Program ini menguji operasi dasar stack seperti push, pop, dan membalik stack menggunakan array. Nilai dimasukkan dan dihapus sesuai urutan di soal, lalu hasil akhir ditampilkan sebelum dan sesudah dibalik agar sesuai dengan output contoh di modul.
 
-### 2. Implementasikan program C++ yang menggunakan algoritma Linear Search pada Linked List untuk mencari elemen tertentu.
-
+### 2. Tambahkan prosedur pushAscending( in/out S : Stack, in x : integer).
 ## File: `stack.cpp`
 ```C++
 #include <iostream>
@@ -734,7 +733,7 @@ int main()
 
 Bagian ini menambahkan fungsi pushAscending yang memasukkan data secara terurut sehingga stack tetap dalam urutan menaik. Program menguji fungsi tersebut dengan beberapa nilai sehingga output akhirnya mengikuti urutan yang ditunjukkan pada modul. 
 
-### 3. Implementasikan program C++ yang menggunakan algoritma Linear Search pada Linked List untuk mencari elemen tertentu.
+### 3. Tambahkan prosedur getInputStream( in/out S : Stack ).
 
 ## File: `stack.cpp`
 ```C++
