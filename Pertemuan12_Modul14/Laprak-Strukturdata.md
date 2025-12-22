@@ -542,7 +542,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided ](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan12_Modul14/Op/14_1.png)
+![Screenshot Output Unguided ](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan12_Modul14/Op/14_2.png)
 
 Soal ini menambahkan algoritma DFS pada ADT Graph untuk menelusuri node secara mendalam dari satu node ke node lainnya menggunakan metode rekursif.
 
@@ -690,7 +690,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided ](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan12_Modul14/Op/14_1.png)
+![Screenshot Output Unguided ](https://github.com/Daffaall/103112430039_Muhammad-Daffa-Al-Abiyyu/blob/main/Pertemuan12_Modul14/Op/14_3.png)
 
 Soal ini menambahkan algoritma BFS pada ADT Graph untuk menelusuri node berdasarkan level menggunakan struktur data queue.
 
